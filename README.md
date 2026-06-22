@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Ultimate+Fan+Project;Overpowered+Blox+Fruits+Script;Fastest+And+Most+Effective+Script;Auto+Farm+And+More">
 </p>
 
-# 🎮 OVERPOWERED BLOX FRUITS SCRIPT
+# 🎮 BLOX FRUITS SCRIPT
 
 ### COMMUNITY HUB
 
